@@ -1,6 +1,6 @@
 # Simple Agent
 
-A ReAct-based LLM agent with tool integration, built using OpenAI's GPT-4 and function calling.
+A ReAct-based LLM agent with tool integration, built using OpenAI's GPT-4o and function calling.
 
 ## Features
 

@@ -1,0 +1,13 @@
+name: simple-agent
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - streamlit
+    - openai
+    - python-dotenv
+    - google-search-results
+    - wikipedia
